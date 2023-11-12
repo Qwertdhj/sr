@@ -175,6 +175,9 @@ body {
   body {
     font-size: 102%;
   }
+  oh {
+    width: 380px;
+  }
 }
 @media (min-width: 54em) {
   body {
